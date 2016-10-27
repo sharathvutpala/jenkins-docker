@@ -1,4 +1,5 @@
 #! /bin/sh
+
 echo hello, world!
 echo jenkins is integrated with github.!!
 echo test
@@ -10,6 +11,4 @@ echo abcd
 echo webhook is tested after restarting server
 echo develop3 branch added
 echo develop2 is updated after creating develop3
-
-
 
